@@ -1,3 +1,7 @@
+body {
+  background: red !important;
+}
+
 .avatar {
   width: 120px;
   height: 120px;

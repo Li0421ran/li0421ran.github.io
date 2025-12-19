@@ -18,14 +18,14 @@ body {
 }
 
 .container {
-  width: 900px;
-  max-width: 95%;
-  margin: auto;
-  background: white;
+  max-width: 900px;
+  margin: 0 auto;
+  background: #ffffff;
   border-radius: 16px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
   padding: 40px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
 }
+
 
 nav {
   margin-bottom: 30px;
